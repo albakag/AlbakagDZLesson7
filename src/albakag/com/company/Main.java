@@ -3,7 +3,7 @@ package albakag.com.company;
 import java.util.ArrayList;
 import java.util.List;
 
-//из-за загруженности на работе не смог все до конца продумать...
+//из-за загруженности на работе не смог все до конца продумать и сделать покрасивее...
 
 
 public class Main {
